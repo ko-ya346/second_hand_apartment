@@ -1,0 +1,10 @@
+log
+.vscode
+config
+input
+features
+notebook
+output
+Pipfile*
+*.sh
+__pychace__
